@@ -17,7 +17,7 @@ Le site contient 2 formulaire de connexion.
 
 Le formulaire de connexion :
 
-[Image du login]
+[Image du login](#)
 
 le formulaire d'inscription :
 
