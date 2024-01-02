@@ -1,6 +1,8 @@
-# Lyceonet
+# Lyceonet - Version 2024 Edition
 
 Lyceonet est un réseau social réserver au lycée Jule Fil de Carcassonne.
+
+### Prochaines Mise à jour : Lycéonet - Version 1.2
 
 ## I. Introduction :
 
