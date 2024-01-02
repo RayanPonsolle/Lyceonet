@@ -13,7 +13,7 @@ que l'activité du site augmente, et aucune informations des utilisateurs (conne
 
 ### I.a formulaires :
 
-Le site contient 2 formulaire de connexion.
+Le site contient 2 formulaires.
 
 Le formulaire de connexion :
 
