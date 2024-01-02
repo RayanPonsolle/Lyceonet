@@ -39,3 +39,7 @@ Vous pouvez aussi nous contacter via le mail ci-dessous.
 
 - [Centre d'aide](#)
 - [ponsolle.rayan@gmail.com](#)
+
+## Crédits :
+- Rayan Ponsolle (1SN2)
+- Leon Henriet (1SN2)
