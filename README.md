@@ -4,6 +4,10 @@ Lyceonet est un réseau social réserver au lycée Jule Fil de Carcassonne.
 
 ### Prochaines Mise à jour : Lycéonet - Version 1.2
 
+Ajout du centre d'aide.
+
+Correction d'erreurs sur le site.
+
 ## I. Introduction :
 
 Lyceonet permet de crée des réseaux de discussions entre les eleves du lycée.
