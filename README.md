@@ -27,7 +27,7 @@ Le formulaire de connexion :
 
 le formulaire d'inscription :
 
-[Image du register](#)
+![register](https://github.com/RayanPonsolle/Lyceonet/assets/82237615/cf4ef031-f5b0-472a-9dc8-2776280492ac)
 
 ### I.b code de verification :
 
@@ -37,7 +37,7 @@ l'adresse mail du compte et demandé par le site.
 Ce code ce présentera sous la forme de 6 chiffres et une fois le code rentré dans le site, la sessions de 
 l'utilisateur sera ouverte.
 
-[Image de l'input](#)
+![verification](https://github.com/RayanPonsolle/Lyceonet/assets/82237615/78924fb8-129d-46b9-9836-ffe535a53357)
 
 ## II. Centre d'aide :
 En cas de besoins d'aide, une page a été mise a disposition sur le site accompagné d'une page de contact.
