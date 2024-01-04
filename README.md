@@ -43,7 +43,7 @@ l'utilisateur sera ouverte.
 En cas de besoins d'aide, une page a été mise a disposition sur le site accompagné d'une page de contact.
 Vous pouvez aussi nous contacter via le mail ci-dessous.
 
-- [Centre d'aide](#)
+- [Centre d'aide](http://lyceonet.rf.gd/?help)
 - [ponsolle.rayan@gmail.com](#)
 
 ## Crédits :
