@@ -27,7 +27,7 @@ Le formulaire de connexion :
 
 le formulaire d'inscription :
 
-![register](https://github.com/RayanPonsolle/Lyceonet/assets/82237615/cf4ef031-f5b0-472a-9dc8-2776280492ac)
+![register_cb](https://github.com/RayanPonsolle/Lyceonet/assets/82237615/75038b10-a080-45e3-be79-2ba2ff5df137)
 
 ### I.b code de verification :
 
