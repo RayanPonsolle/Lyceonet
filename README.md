@@ -12,6 +12,8 @@ Bonton de fermeture qui ne fonctionnent pas
 
 Navbar qui ne fonctionne pas dans certaines pages
 
+Ajout d'un bouton pour supprimer les messages privés
+
 ## I. Introduction :
 
 Lyceonet permet de crée des réseaux de discussions entre les eleves du lycée.
