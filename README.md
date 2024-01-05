@@ -8,6 +8,10 @@ Ajout de pages au centre d'aide
 
 Correction d'erreurs sur le site.
 
+Bonton de fermeture qui ne fonctionnent pas
+
+Navbar qui ne fonctionne pas dans certaines pages
+
 ## I. Introduction :
 
 Lyceonet permet de crée des réseaux de discussions entre les eleves du lycée.
