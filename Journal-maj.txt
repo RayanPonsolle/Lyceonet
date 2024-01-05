@@ -7,7 +7,8 @@ Journal des mises à jour : Lycéonet 2024 Edition
 [Version 1.1]
 
 - Nouvelle fonctionnalité : Inscription, Connexion, Post, Supprimer un post, 
-Liker un post, Commenter un post, Ajout d'amis, messages privés, Bloquer un utilisateur.
+Liker un post, Commenter un post, Signaler un post, Ajout d'amis, messages privés, 
+Signalé un message privé, Bloquer un utilisateur, Signalé un utilisateur.
 
 - Amélioration : Aucune.
 - Correction de bugs : Aucune.
