@@ -16,6 +16,8 @@ Ajout d'un bouton pour supprimer les messages privés
 
 Ajout d'un bouton pour signaler les messages privés
 
+Modification des couleurs des rôles Administrateur et Modérateur
+
 ## I. Introduction :
 
 Lyceonet permet de crée des réseaux de discussions entre les eleves du lycée.
