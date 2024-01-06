@@ -16,7 +16,7 @@ Ajout d'un bouton pour supprimer les messages privés
 
 Ajout d'un bouton pour signaler les messages privés
 
-Modification des couleurs des rôles Administrateur et Modérateur
+Modification des couleurs des rôles Administrateur et Modérateur dans l'onglet message
 
 ## I. Introduction :
 
