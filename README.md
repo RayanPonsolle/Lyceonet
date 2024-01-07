@@ -10,8 +10,6 @@ Correction d'erreurs sur le site.
 
 Bonton de fermeture qui ne fonctionnent pas
 
-Navbar qui ne fonctionne pas dans certaines pages
-
 Ajout d'un bouton pour supprimer les messages privés
 
 Ajout d'un bouton pour signaler les messages privés
