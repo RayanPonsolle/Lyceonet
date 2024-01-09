@@ -24,6 +24,12 @@ Changement du code de vérification par mail
 
 Langue sur le register
 
+Confirmer le mot de passe lors de l'inscription
+
+Sécurité des mots de passe
+
+Placeholder mot de passe caractères
+
 ## I. Introduction :
 
 Lyceonet permet de crée des réseaux de discussions entre les eleves du lycée.
