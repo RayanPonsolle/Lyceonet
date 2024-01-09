@@ -20,6 +20,8 @@ Changement des tailles de photos lors de l'upload
 
 Changement du front ( navbar, page de message, page de notifications )
 
+Changement du code de vérification par mail
+
 ## I. Introduction :
 
 Lyceonet permet de crée des réseaux de discussions entre les eleves du lycée.
