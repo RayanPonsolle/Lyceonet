@@ -18,6 +18,8 @@ Modification des couleurs des rôles Administrateur et Modérateur dans l'onglet
 
 Changement des tailles de photos lors de l'upload 
 
+Changement du front ( navbar, page de message, page de notifications )
+
 ## I. Introduction :
 
 Lyceonet permet de crée des réseaux de discussions entre les eleves du lycée.
