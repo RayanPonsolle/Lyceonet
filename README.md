@@ -40,6 +40,8 @@ Groupes de discussions
 
 Sondages
 
+Statut des utilisateurs 
+
 ## I. Introduction :
 
 Lyceonet permet de crée des réseaux de discussions entre les eleves du lycée.
