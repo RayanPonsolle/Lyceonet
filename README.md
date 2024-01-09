@@ -28,9 +28,16 @@ Confirmer le mot de passe lors de l'inscription
 
 Sécurité des mots de passe
 
+Input pour l'age
+
+input pour le lycée
+
 Placeholder mot de passe caractères
 
 Bouton envoyer emoji dans message privé
+
+Groupe de discussion
+
 
 ## I. Introduction :
 
