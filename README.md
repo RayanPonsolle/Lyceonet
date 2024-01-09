@@ -22,6 +22,8 @@ Changement du front ( navbar, page de message, page de notifications )
 
 Changement du code de vérification par mail
 
+Langue sur le register
+
 ## I. Introduction :
 
 Lyceonet permet de crée des réseaux de discussions entre les eleves du lycée.
