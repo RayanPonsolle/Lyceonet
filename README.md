@@ -30,6 +30,8 @@ Sécurité des mots de passe
 
 Placeholder mot de passe caractères
 
+Bouton envoyer emoji dans message privé
+
 ## I. Introduction :
 
 Lyceonet permet de crée des réseaux de discussions entre les eleves du lycée.
