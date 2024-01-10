@@ -42,6 +42,8 @@ Sondages
 
 Statut des utilisateurs 
 
+Boite a idée
+
 ## I. Introduction :
 
 Lyceonet permet de crée des réseaux de discussions entre les eleves du lycée.
