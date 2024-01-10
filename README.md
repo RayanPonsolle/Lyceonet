@@ -48,6 +48,8 @@ Text-light sur les posts
 
 Limitte de caractères pour les messages 
 
+Page message et notification
+
 ## I. Introduction :
 
 Lyceonet permet de crée des réseaux de discussions entre les eleves du lycée.
