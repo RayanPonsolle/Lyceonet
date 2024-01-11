@@ -8,8 +8,6 @@ Ajout de pages au centre d'aide
 
 Correction d'erreurs sur le site.
 
-Bontons de fermeture qui ne fonctionnent pas
-
 Ajout d'un bouton pour supprimer les messages privés
 
 Ajout d'un bouton pour signaler les messages privés
