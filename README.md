@@ -2,7 +2,7 @@
 
 Lyceonet est un réseau social réserver au lycée Jule Fil de Carcassonne.
 
-### Prochaines Mise à jour vers Lycéonet v1.2: 
+### Mise à jour en cours vers Lycéonet v1.2: 
 
 Ajout de pages au centre d'aide
 
@@ -20,19 +20,8 @@ Changement des tailles de photos lors de l'upload
 
 Changement du front ( navbar, page de message, page de notifications )
 
-Changement du code de vérification par mail
-
-Langue sur le register
-
-Confirmer le mot de passe lors de l'inscription
-
-Sécurité des mots de passe
-
-Input pour l'age
 
 input pour le lycée
-
-Placeholder mot de passe caractères
 
 Bouton envoyer emoji dans message privé
 
@@ -47,8 +36,6 @@ Boite a idée
 Text-light sur les posts
 
 Limitte de caractères pour les messages 
-
-Page message et notification
 
 ## I. Introduction :
 
