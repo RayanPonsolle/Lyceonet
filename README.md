@@ -20,8 +20,6 @@ Changement des tailles de photos lors de l'upload
 
 input pour le lycée
 
-Bouton envoyer emoji dans message privé
-
 Groupes de discussions
 
 Sondages
@@ -29,8 +27,6 @@ Sondages
 Statut des utilisateurs 
 
 Boite a idée
-
-Text-light sur les posts
 
 Limitte de caractères pour les messages 
 
