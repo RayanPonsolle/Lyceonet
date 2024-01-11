@@ -22,11 +22,7 @@ Groupes de discussions
 
 Sondages
 
-Statut des utilisateurs 
-
 Boite a idée
-
-Limitte de caractères pour les messages 
 
 ## I. Introduction :
 
