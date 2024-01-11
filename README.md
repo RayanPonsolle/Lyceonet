@@ -18,9 +18,6 @@ Modification des couleurs des rôles Administrateur et Modérateur dans l'onglet
 
 Changement des tailles de photos lors de l'upload 
 
-Changement du front ( navbar, page de message, page de notifications )
-
-
 input pour le lycée
 
 Bouton envoyer emoji dans message privé
