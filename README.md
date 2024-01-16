@@ -16,7 +16,7 @@ Modification des couleurs des rôles Administrateur et Modérateur dans l'onglet
 
 Changement des tailles de photos lors de l'upload 
 
-input pour le lycée
+accordion pour le lycée
 
 Groupes de discussions
 
