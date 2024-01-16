@@ -24,6 +24,8 @@ Sondages
 
 Boite a idée
 
+input name et database 
+
 ## I. Introduction :
 
 Lyceonet permet de crée des réseaux de discussions entre les eleves du lycée.
