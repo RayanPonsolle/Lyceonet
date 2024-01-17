@@ -20,7 +20,7 @@ Groupes de discussions
 
 Sondages
 
-Boite a idée
+Boite a idées
 
 input name et database 
 
