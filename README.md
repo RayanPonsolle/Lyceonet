@@ -26,11 +26,9 @@ input name et database
 
 ## I. Introduction :
 
-Lyceonet permet de crée des réseaux de discussions entre les eleves du lycée.
+Lyceonet permet de créer des réseaux de discussions entre les lycéens
 
-Le site va subir une suite de mise a jour dans les prochains mois.
-
-Lyceonet va aussi subir une migration sur d'autre serveur si nous constatons
+Lyceonet va subir une migration sur d'autres serveurs si nous constatons
 que l'activité du site augmente, et aucune informations des utilisateurs (connexion, message...) ne sera perdu.
 
 ### I.a formulaires :
